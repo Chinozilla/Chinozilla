@@ -19,13 +19,12 @@ Der Quellcode ist privat (kommerzielles Produkt). Architektur, Technik-Entscheid
 Screenshots sind öffentlich dokumentiert:
 **→ [kartenmesse-showcase](https://github.com/Chinozilla/kartenmesse-showcase)**
 
-### [council-kit](https://github.com/Chinozilla/council-kit) — Multi-Agenten-Framework (Claude Agent SDK)
+### KI-Multi-Agenten-System (Claude Agent SDK)
 
 Für kartenmesse.de betreibe ich eine autonome KI-„Redaktion": spezialisierte Agenten für
 Content, News, Web-Research, Legal-Prüfung und QA — mit Reviewer-Veto-Hierarchie als
 Qualitätsmauer, Lease-basierter Parallelitätskontrolle und zentraler Problem-Datei statt
-direkter Nutzer-Kommunikation. **council-kit** ist der generische Open-Source-Kern dieses
-Produktionssystems: Maker-Checker-Review-Loops, Worker-Leases, deduplizierte Problem-Sinks.
+direkter Nutzer-Kommunikation. Eigenentwicklung, Quellcode privat.
 
 ### [ssrf-safe-fetch](https://github.com/Chinozilla/ssrf-safe-fetch) — SSRF-Schutz für Node.js
 
